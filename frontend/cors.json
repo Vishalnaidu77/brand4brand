@@ -1,0 +1,15 @@
+[
+  {
+    "origin": [
+      "http://localhost:3000",
+      "https://brand4brand.vercel.app",
+      "https://brand4brand-4j7qc1819-vishalnaidu77s-projects.vercel.app",
+      "https://*.vercel.app",
+      "https://yourdomain.com",
+      "https://www.yourdomain.com"
+    ],
+    "method": ["GET", "POST", "PUT", "DELETE", "HEAD"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "Authorization", "Content-Length", "X-Requested-With"]
+  }
+]
